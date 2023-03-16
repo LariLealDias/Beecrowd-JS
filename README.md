@@ -3,7 +3,7 @@ Exercicios BeeCrowd
 ![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🛠 STATUS 🛠
-![Badge](https://img.shields.io/badge/status-em%20desenvolvimento-yellowgreen)
+![Badge](https://img.shields.io/badge/status-%20finished-brightgreen)
 <br><br><br>
 
 <h2> 📝 Descrição da proposta</h2>
